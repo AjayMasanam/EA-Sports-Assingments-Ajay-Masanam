@@ -18,7 +18,7 @@ A floating-reactions engine (❤️ 👍 🔥 ⭐) that renders the same effect 
 
 ## 1. Project overview
 
-Requirements covered: interactive stage, four reactions, Send Reaction, 3 s upward flight with sway, scale-up and fade, DOM removal on completion, 50+ concurrent reactions, CSS-keyframe phase, GSAP phase using only `x/y/scale/opacity`, a 0.1x to 2.0x speed slider that retimes in-flight animations, profiling, and written reflections. Test results are in [`SUBMISSION_CHECKLIST.md`](SUBMISSION_CHECKLIST.md) (17 of 17 automated checks passed).
+Requirements covered: interactive stage, four reactions, Send Reaction, 3 s upward flight with sway, scale-up and fade, DOM removal on completion, 50+ concurrent reactions, CSS-keyframe phase, GSAP phase using only `x/y/scale/opacity`, a 0.1x to 2.0x speed slider that retimes in-flight animations, profiling, and written reflections. Automated test results are included in `qa/results.json`.
 
 ## 2. Setup and running
 

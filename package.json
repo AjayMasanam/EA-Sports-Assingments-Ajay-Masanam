@@ -1,0 +1,15 @@
+{
+  "name": "livestream-reaction-engine",
+  "version": "1.0.0",
+  "description": "Livestream Reaction Engine: CSS keyframes vs GSAP",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx --yes http-server . -p 8080 -c-1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gsap": "^3.15.1"
+  }
+}
